@@ -1,7 +1,7 @@
 # Streaming de Eventos com Kinesis, Glue Crawler, AWS Athena, Terraform, Git - CI e Esteira de Deploy
 
 
-Repositório com códigos e esteiras de deploy para a criação de uma arquitetura de Streaming de eventos com Kinesis, usando Glue Crawler, AWS Athena, com dados gerados por simulação de eventos utilizando a biblioteca fake_web_events 
+Repositório com códigos e esteiras de deploy para a criação de uma arquitetura de Streaming de eventos com Kinesis, usando Glue Crawler, AWS Athena, com dados gerados por simulação de eventos utilizando a biblioteca fake_web_events.
 
 
 ## 1 - Streaming de eventos com Kinesis
