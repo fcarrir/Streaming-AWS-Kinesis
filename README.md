@@ -14,6 +14,6 @@ Arquitetura da solução:
 
 ## 2 - Simulando eventos
 
-Para simular eventos de streaming basta acessar a pasta raiz do projeto e ececutar o comando:
+Para simular eventos de streaming basta acessar a pasta raiz do projeto e executar o comando:
 
 python3 simulations_to_kinesis.py
